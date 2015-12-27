@@ -1,5 +1,9 @@
 # gradle-plugin-template
 
+[![Build Status](https://travis-ci.org/ksoichiro/gradle-plugin-template.svg?branch=master)](https://travis-ci.org/ksoichiro/gradle-plugin-template)
+[![Build status](https://ci.appveyor.com/api/projects/status/sp76ckciaygit9tm?svg=true)](https://ci.appveyor.com/project/ksoichiro/gradle-plugin-template)
+[![Coverage Status](https://coveralls.io/repos/ksoichiro/gradle-plugin-template/badge.svg?branch=master&service=github)](https://coveralls.io/github/ksoichiro/gradle-plugin-template?branch=master)
+
 Template project for Gradle plugin.
 
 ## Usage
